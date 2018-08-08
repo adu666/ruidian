@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>错</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.9%" y="-1.3%" width="103.7%" height="103.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="教师端-H5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002" transform="translate(-239.000000, -503.000000)" fill="#CB5342" fill-rule="nonzero">
+            <g id="Group-11" filter="url(#filter-1)" transform="translate(12.000000, 129.000000)">
+                <path d="M246,407 C237.715729,407 231,400.284271 231,392 C231,383.715729 237.715729,377 246,377 C254.284271,377 261,383.715729 261,392 C261,400.284271 254.284271,407 246,407 Z M246,406 C253.731986,406 260,399.731986 260,392 C260,384.268014 253.731986,378 246,378 C238.268014,378 232,384.268014 232,392 C232,399.731986 238.268014,406 246,406 Z M245.129715,392 L240.343146,387.213431 C240.102823,386.973108 240.102823,386.583468 240.343146,386.343146 C240.583468,386.102823 240.973108,386.102823 241.213431,386.343146 L246,391.129715 L250.786569,386.343146 C251.026892,386.102823 251.416532,386.102823 251.656854,386.343146 C251.897177,386.583468 251.897177,386.973108 251.656854,387.213431 L246.870285,392 L251.656854,396.786569 C251.897177,397.026892 251.897177,397.416532 251.656854,397.656854 C251.416532,397.897177 251.026892,397.897177 250.786569,397.656854 L246,392.870285 L241.213431,397.656854 C240.973108,397.897177 240.583468,397.897177 240.343146,397.656854 C240.102823,397.416532 240.102823,397.026892 240.343146,396.786569 L245.129715,392 Z" id="错"></path>
+            </g>
+        </g>
+    </g>
+</svg>

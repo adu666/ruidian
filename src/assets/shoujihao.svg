@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>shoujihao</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="教师端-H5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="000登录" transform="translate(-37.000000, -166.000000)">
+            <g id="Group-7" transform="translate(32.000000, 164.000000)">
+                <g id="shoujihao">
+                    <path d="M7,2 L17,2 C18.1045695,2 19,2.8954305 19,4 L19,20 C19,21.1045695 18.1045695,22 17,22 L7,22 C5.8954305,22 5,21.1045695 5,20 L5,4 C5,2.8954305 5.8954305,2 7,2 Z M8.16666667,3.17647059 C7.06209717,3.17647059 6.16666667,4.07190109 6.16666667,5.17647059 L6.16666667,18.4705882 L17.8333333,18.4705882 L17.8333333,5.17647059 C17.8333333,4.07190109 16.9379028,3.17647059 15.8333333,3.17647059 L8.16666667,3.17647059 Z M12,21.4117647 C12.6443322,21.4117647 13.1666667,20.8850409 13.1666667,20.2352941 C13.1666667,19.5855474 12.6443322,19.0588235 12,19.0588235 C11.3556678,19.0588235 10.8333333,19.5855474 10.8333333,20.2352941 C10.8333333,20.8850409 11.3556678,21.4117647 12,21.4117647 Z" id="Combined-Shape" fill="#CCCCCC"></path>
+                    <rect id="Rectangle-5" x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

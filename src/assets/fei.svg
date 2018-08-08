@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>识别不出</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.9%" y="-1.3%" width="103.7%" height="103.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="教师端-H5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002-2" transform="translate(-248.000000, -503.000000)">
+            <g id="Group-11" filter="url(#filter-1)" transform="translate(12.000000, 129.000000)">
+                <g id="识别不出" transform="translate(241.000000, 378.000000)">
+                    <circle id="Oval" stroke="#EFB85F" cx="14" cy="14" r="14"></circle>
+                    <text id="识" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" letter-spacing="-0.0800000057" fill="#EFB85F">
+                        <tspan x="6" y="20">识</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#EFB85F" transform="translate(14.500000, 14.000000) rotate(-59.000000) translate(-14.500000, -14.000000) " x="14" y="0" width="1" height="28"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>dui</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.9%" y="-1.3%" width="103.7%" height="103.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="教师端-H5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002" transform="translate(-98.000000, -503.000000)" fill="#41991E" fill-rule="nonzero">
+            <g id="Group-11" filter="url(#filter-1)" transform="translate(12.000000, 129.000000)">
+                <path d="M105,407 C96.7157288,407 90,400.284271 90,392 C90,383.715729 96.7157288,377 105,377 C113.284271,377 120,383.715729 120,392 C120,400.284271 113.284271,407 105,407 Z M105,406 C112.731986,406 119,399.731986 119,392 C119,384.268014 112.731986,378 105,378 C97.2680135,378 91,384.268014 91,392 C91,399.731986 97.2680135,406 105,406 Z M103.236705,395.60906 L111.665523,387.180242 C111.905846,386.939919 112.295486,386.939919 112.535809,387.180242 C112.776131,387.420565 112.776131,387.810205 112.535809,388.050527 L103.933109,396.513301 C103.54589,396.894222 102.925404,396.896388 102.535534,396.51818 L98.180242,392.293168 C97.9399193,392.052845 97.9399193,391.663205 98.180242,391.422883 C98.4205646,391.18256 98.8102046,391.18256 99.0505272,391.422883 L103.236705,395.60906 Z" id="dui"></path>
+            </g>
+        </g>
+    </g>
+</svg>

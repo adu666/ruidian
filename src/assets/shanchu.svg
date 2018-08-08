@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>shanchu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.9%" y="-1.5%" width="103.7%" height="103.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="教师端-H5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="002-2" transform="translate(-327.000000, -719.000000)">
+            <g id="Group-11-Copy" filter="url(#filter-1)" transform="translate(12.000000, 720.000000)">
+                <g id="shanchu" transform="translate(319.000000, 2.000000)">
+                    <path d="M30,30 C13.2470747,29.0331688 0,16.8124253 0,1.87885218 C0,1.24750421 0.0236771869,0.621005013 0.0702954745,-1.57651669e-14 L30,0 L30,30 Z" id="删除" fill="#EF2223" fill-rule="nonzero"></path>
+                    <path d="M16.1843855,12.065128 L10.9127917,6.79353412 C10.6481171,6.5288595 10.6481171,6.09973714 10.9127917,5.83506252 C11.1774663,5.57038789 11.6065887,5.57038789 11.8712633,5.83506252 L17.1428571,11.1066564 L22.414451,5.83506252 C22.6791256,5.57038789 23.108248,5.57038789 23.3729226,5.83506252 C23.6375972,6.09973714 23.6375972,6.5288595 23.3729226,6.79353412 L18.1013288,12.065128 L23.3729226,17.3367218 C23.6375972,17.6013965 23.6375972,18.0305188 23.3729226,18.2951934 C23.108248,18.5598681 22.6791256,18.5598681 22.414451,18.2951934 L17.1428571,13.0235996 L11.8712633,18.2951934 C11.6065887,18.5598681 11.1774663,18.5598681 10.9127917,18.2951934 C10.6481171,18.0305188 10.6481171,17.6013965 10.9127917,17.3367218 L16.1843855,12.065128 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
